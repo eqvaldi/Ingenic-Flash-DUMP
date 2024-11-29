@@ -1,5 +1,5 @@
-# FIIO-M3K-Flash-DUMP
-A Dump of the entire flash inside the fiio m3k
+# Ingenic-Flash-DUMP
+A Dump of the entire flash inside the Ingenic Based players for backup and restore the firmware.
 
 # description
 
@@ -13,4 +13,6 @@ A Dump of the entire flash inside the fiio m3k
 # Info
 
 * https://www.rockbox.org/wiki/FiioM3K
+* https://www.rockbox.org/wiki/AIGOErosQK.html
+* https://www.rockbox.org/wiki/JztoolInstall.html#jztool
 * https://www.rockbox.org/wiki/IngenicX1000
