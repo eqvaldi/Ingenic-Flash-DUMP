@@ -3,7 +3,8 @@ A Dump of the entire flash inside the Ingenic Based players for backup and resto
 
 # description
 
-* fiiom3k-boot.bin (bootloader rcovery)
+* erosqnative-boot.bin (bootloader rcovery for Erosq/Hifiwalker/Surfans)
+* fiiom3k-boot.bin (bootloader rcovery for fiio m3k)
 * flash.img (internal flash image)
 * flash_info.txt (flash info)
 * flash_onfi_info.txt (flash info)
