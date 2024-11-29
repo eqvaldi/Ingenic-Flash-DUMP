@@ -11,6 +11,12 @@ A Dump of the entire flash inside the Ingenic Based players for backup and resto
 * of_player.img (official player image)
 * of_recovery.img (official recovery image)
 
+# Firmware Files
+
+* fiioM3K https://github.com/eqvaldi/Ingenic-Flash-DUMP/releases/tag/fiio-m3k
+* Hifiwalker h2 v1.8 (hw3) https://github.com/eqvaldi/Ingenic-Flash-DUMP/releases/tag/hifiwalker-1.8
+* surfans f20 v3.3 (hw3) https://github.com/eqvaldi/Ingenic-Flash-DUMP/releases/tag/SurfansF20-3.3
+
 # Info
 
 * https://www.rockbox.org/wiki/FiioM3K
