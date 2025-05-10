@@ -16,6 +16,8 @@ A Dump of the entire flash inside the Ingenic Based players for backup and resto
 * fiioM3K https://github.com/eqvaldi/Ingenic-Flash-DUMP/releases/tag/fiio-m3k
 * Hifiwalker h2 v1.8 (hw3) https://github.com/eqvaldi/Ingenic-Flash-DUMP/releases/tag/hifiwalker-1.8
 * surfans f20 v3.3 (hw3) https://github.com/eqvaldi/Ingenic-Flash-DUMP/releases/tag/SurfansF20-3.3
+* surfans f20 v3.4 (hw4) https://github.com/eqvaldi/Ingenic-Flash-DUMP/releases/tag/SurfansF20-3.4
+
 
 # Info
 
